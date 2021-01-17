@@ -1,5 +1,5 @@
 var gameState = 0; 
-var ask = 'harry';
+var ask = prompt("What is your name: ");
 var start, start2, bg;
 var wall1, wall2,wall3,wall4,wall5,wall6,wall7,wall8,wall9,wall10,wall11,wall12;
 var ding, dong1,dong2,dong3,dong4;
